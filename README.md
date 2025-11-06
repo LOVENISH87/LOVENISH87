@@ -7,7 +7,7 @@
 # ✅ 1. CYBERPUNK NEON
 
 <p align="center">
-  <img src="https://i.imgur.com/C9VKX3i.gif" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU1eXN6aDQzNnhocW0zbG5vbm5maXE2dDE4dzJiZGtsMHB1aXpuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">⚡ L O V E N I S H  8 7</h1>
