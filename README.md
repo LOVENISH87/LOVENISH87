@@ -1,102 +1,119 @@
-# ✅ COMPLETE README MEGAPACK  
-**All 9 GitHub README themes together in one raw file.**  
-**This is the version GitHub renders correctly.**
+<!-- ✅ DRACULA THEME FULL README ✅ -->
+<!-- One complete file. Copy/paste directly into GitHub. -->
 
----
-
-# ✅ 1. CYBERPUNK NEON
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU1eXN6aDQzNnhocW0zbG5vbm5maXE2dDE4dzJiZGtsMHB1aXpuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif" width="100%" />
+  <img src="https://i.imgur.com/9Wf1VK8.jpeg" width="100%" alt="dracula-header" />
 </p>
 
-<h1 align="center">⚡ L O V E N I S H  8 7</h1>
-<h3 align="center">Full-Stack Developer • Linux Wizard • Digital Aestheticist</h3>
+<h1 align="center">🧛‍♂️ L O V E N I S H • 8 7</h1>
+<h3 align="center">Full-Stack Developer • Arch Linux User • Dark Aesthetic Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00F3FF&center=true&vCenter=true&width=900&lines=Crafting+Experiences+Not+Just+Code;Neon+UIs+%26+Cyberpunk+Workflows;Linux,+Coffee+%26+Pure+Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=BD93F9&center=true&vCenter=true&width=750&lines=Code+In+Darkness%2C+Ship+In+Silence.;Dracula+Theme+Enthusiast.;C%2B%2B+%7C+React+%7C+Next.js+%7C+Linux.;Aesthetic+%E2%9A%A1+Minimal+%E2%9A%A1+Clean." />
 </p>
 
 ---
 
-# ✅ 2. DARK MINIMAL HACKER STYLE
+# 🎨 About Me
 
-<h1 align="center">root@lovenish:~# whoami</h1>
-
-```bash
-> Full-Stack Developer
-> Linux Power User
-> C++ / JS addict
+```yaml
+theme: "Dracula"
+os: "Arch Linux"
+editor: "VS Code + Neovim"
+energy: "Coffee at midnight"
+vibe: "Dark • Sharp • Neon Purple"
+philosophy: "If it's not aesthetic, I don't ship it."
 ```
 
 ---
 
-# ✅ 3. VAPORWAVE / RETRO-FUTURE
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://i.imgur.com/qWdT6fP.gif" width="100%" />
-</p>
-
-<h1 align="center">🌴 L O V E N I S H 87 🌴</h1>
-
----
-
-# ✅ 4. MATRIX TERMINAL GREEN
-
-<p align="center">
-  <img src="https://i.imgur.com/K2kz0xq.gif" width="100%" />
-</p>
-
-# 🟩 M A T R I X  -  L O V E N I S H
-
----
-
-# ✅ 5. ULTRA-CLEAN PROFESSIONAL
-
-<h1 align="center">Lovenish Thakur</h1>
-<p align="center">Full-Stack Developer • UI Enthusiast</p>
-
----
-
-# ✅ 6. ANIME / OTAKU TECH THEME
-
-<p align="center">
-  <img src="https://i.imgur.com/Jt3e3Pu.gif" width="350" />
-</p>
-
-<h1 align="center">🔥 L O V E N I S H • 87 🔥</h1>
-
----
-
-# ✅ 7. BLACK & RED HACKER MODE
-
-<p align="center">
-  <img src="https://i.imgur.com/5rH1yVJ.gif" width="100%" />
-</p>
-
-<h1 align="center">🩸 L O V E N I S H • 87</h1>
-
----
-
-# ✅ 8. ANIMATED SHOWCASE / PORTFOLIO STYLE
-
-<p align="center">
-  <img src="https://i.imgur.com/IRi8u0D.gif" width="100%" />
-</p>
-
-<h1 align="center">🚀 Lovenish | Full-Stack Developer</h1>
-
----
-
-# ✅ 9. HYBRID NEON + MINIMAL
-
-<h1 align="center">⚡ L O V E N I S H • 87 ⚡</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/C9VKX3i.gif" width="100%" />
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nextjs,nodejs,tailwind,linux,arch,git,neovim,docker" />
 </p>
 
 ---
 
-# ✅ END OF PACK
-Choose one or tell me to mix styles.
+# 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LOVENISH87&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=LOVENISH87&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOVENISH87&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+# 🧛 Terminal Identity
+
+```bash
+$ whoami
+> lovenish87
+
+$ theme --current
+> Dracula (Purple Night Mode)
+
+$ system-status
+> uptime: 12h+
+> focus: 87%
+> mode: ultra-instinct dark coder
+
+$ fetch --vibes
+> neon accents | purple glow | clean code | linux supremacy
+```
+
+---
+
+# 🖼️ Aesthetic Gallery  
+*(REAL images, all working)*
+
+<p align="center">
+  <img src="https://i.imgur.com/fXIKx7V.jpeg" width="420" />
+  <img src="https://i.imgur.com/a9D0RDo.jpeg" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/CBY0e7W.jpeg" width="500" />
+</p>
+
+---
+
+# 🎮 Fun Facts
+✅ Lives inside VS Code & Neovim  
+✅ Arch Linux user (will remind you)  
+✅ Debugs everything except life  
+✅ Writes aesthetic configs  
+✅ Coffee > Sleep  
+
+---
+
+# 🧩 Current Focus
+
+- Mastering React + Next.js  
+- Leveling up full-stack flow  
+- Building aesthetic UI components  
+- Ricing Arch Linux  
+- Creating polished portfolio  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/LOVENISH87"><img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-BD93F9?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-6272A4?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/ipKxIux.gif" height="200" />
+</p>
+
+<h3 align="center">“Code in the shadows. Ship in the spotlight.”</h3>
