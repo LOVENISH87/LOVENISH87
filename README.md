@@ -59,18 +59,6 @@ $ gadgets
 > c++ | react | nextjs | linux | node | debugging tools
 ```
 
----
-
-# 🎥 Gotham Gallery (REAL GIPHY GIFs)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/10QfJ3AFf4E80A/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="500" />
-</p>
 
 ---
 
