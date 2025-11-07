@@ -27,9 +27,11 @@ energy: "Coffee at 3AM"
 
 # ⚙️ Tech Arsenal
 
-<p>
-  <img src="https://skillicons.dev/icons?&i=cpp,js,ts,react,nextjs,nodejs,tailwind,aws,docker,kubernetes,postman,mongodb,linux,git,arch,cassandra" />
-</p>
+<div style="padding: 20px; border-radius: 12px; border: 1px solid #444;">
+  <h3>Skills</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,aws,docker,kubernetes,postman,mongodb,linux,git,arch,cassandra" />
+</div>
+
 
 
 
