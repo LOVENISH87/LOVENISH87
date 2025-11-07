@@ -27,7 +27,7 @@ energy: "Coffee at 3AM"
 
 # ⚙️ Tech Arsenal
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?&i=cpp,js,ts,react,nextjs,nodejs,tailwind,aws,docker,kubernetes,postman,mongodb,linux,git,arch,cassandra" />
 </p>
 
