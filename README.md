@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
+  <!-- <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" /> -->
+  LOVENISH
 </p>
 
-<h1 align="center">🦇 B A T M A N • L O V E N I S H 8 7 🦇</h1>
+<!-- <h1 align="center">🦇 B A T M A N • L O V E N I S H 8 7 🦇</h1> -->
 <h3 align="center">Full-Stack Vigilante • Code Detective • Night-Mode Developer</h3>
 
 <p align="center">
