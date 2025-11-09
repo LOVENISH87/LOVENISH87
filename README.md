@@ -1,10 +1,10 @@
-<p align="center">
+<h1 align="center">
   <!-- <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" /> -->
   LOVENISH
-</p>
+</h1>
 
 <!-- <h1 align="center">🦇 B A T M A N • L O V E N I S H 8 7 🦇</h1> -->
-<h3 align="center">Full-Stack Vigilante • Code Detective • Night-Mode Developer</h3>
+<!-- <h3 align="center">Full-Stack Vigilante • Code Detective • Night-Mode Developer</h3> -->
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2p4N3h0NXZjeWZuZ3RlZG8xeXMzMTBoMzVjb3QyczdsaHJuc3BtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eGUxJc4lplh6/giphy.gif" width="380" />
@@ -86,8 +86,8 @@ $ gadgets
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/h2LTbNJh0uEAM/giphy.gif" height="200" />
-</p>
+<p height="200" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxxM2pycWFrbTBoem95NW5nZHViZXR0ZThxc2RhdGNmMHRlenVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5DQdk5oZzNgGc/giphy.gif" height="200" />
+</p> 
 
 <h3 align="center">“I am whatever GitHub needs me to be.”</h3>
