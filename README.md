@@ -6,7 +6,7 @@
 <!-- <h1 align="center">🦇 B A T M A N • L O V E N I S H 8 7 🦇</h1> -->
 <!-- <h3 align="center">Full-Stack Vigilante • Code Detective • Night-Mode Developer</h3> -->
 
-<p align="center">
+<p align="center" width="400">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2p4N3h0NXZjeWZuZ3RlZG8xeXMzMTBoMzVjb3QyczdsaHJuc3BtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eGUxJc4lplh6/giphy.gif" width="380" />
 <!---```https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2p4N3h0NXZjeWZuZ3RlZG8xeXMzMTBoMzVjb3QyczdsaHJuc3BtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eGUxJc4lplh6/giphy.gif``` --->
   
